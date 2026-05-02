@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "oof-tracker"
-version = "0.1.0"
+version = "0.1.0-alpha.1"
 description = "A tool to track mistakes"
 authors = [{name = "Your Name", email = "your.email@example.com"}]
 dependencies = []
