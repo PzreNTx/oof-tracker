@@ -1,0 +1,11 @@
+{
+    "date": "2026-03-12",
+    "subject": "Mathematics",
+    "topic": "Integration by parts",
+    "mistake_type": "Conceptual",
+    "description": "Applied formula incorrectly and swapped terms",
+    "correct_answer": "Nothing here.",
+    "root_cause": "Weak understanding of variable selection",
+    "fix_strategy": "Practice 10 targeted problems + review theory",
+    "confidence_level": 2
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "date": "2026-03-18",
+        "subject": "Physics",
+        "topic": "Newton's 2nd Law",
+        "mistake_type": "Calculation",
+        "description": "Incorrectly summed forces leading to wrong acceleration",
+        "correct_answer": "F = ma, so a = F_net / m",
+        "root_cause": "Missed one force component in free-body diagram",
+        "fix_strategy": "Re-draw diagrams carefully and double-check all forces",
+        "confidence_level": 3
+    }
+]
